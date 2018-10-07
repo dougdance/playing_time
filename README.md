@@ -45,3 +45,6 @@ Helps track how much playing time each person on a team gets
   * Player (Person)
   * Playing Time (duration)
 
+# All Done
+
+I found several apps out there that already do this, and my motivation is gone.
